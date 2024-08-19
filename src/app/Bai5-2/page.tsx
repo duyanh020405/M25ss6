@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function page() {
+export default function Bai5_2() {
   return (
     <div>
-      
+      Bai 5_2
     </div>
   )
 }
